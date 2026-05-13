@@ -19,3 +19,5 @@ Code in Place was a great, uplifting, learning experience and over 10,000 studen
 in Python.
 
 ```
+✔️ If you think this repository has helped you learn something new you can give a star ⭐   
+❌ If not, point out 'why' and spam the issue section 🚩   
