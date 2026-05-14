@@ -1,23 +1,81 @@
-<!-- # Code-In-Place-By-Stanford-University
+<div align="center">
 
-Karel Codes and Code In Place 2023 Solutions -->
+<img src="https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/block-s-right.png" width="180"/>
 
-<p align="center">
-  <a href="https://codeinplace.stanford.edu">
-    <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/82601797.png" alt="Logo">
-  </a>
-  <h3 align="center">Code in Place 2026 and Karel Solutions</h3>  
-  <p align="center">
-  </p>
-</p>
+# Code in Place 2026 and Karel Solutions
 
-```diff
+</div>
 
-Code in Place is an act of community service over 900 teachers from around the world came together to 
-offer a first-of-its-kind volunteer-led course called Code in Place, hosted by Stanford University. 
-Code in Place was a great, uplifting, learning experience and over 10,000 students learned how to code 
-in Python.
+<br>
 
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+```python
+def karel():
+    while front_is_clear():
+        move()
+
+    if not beepers_present():
+        put_beeper()
 ```
-✔️ If you think this repository has helped you learn something new you can give a star ⭐   
-❌ If not, point out 'why' and spam the issue section 🚩   
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+> Code in Place is an act of community service where 900+ teachers from around the world came together to offer a first-of-its-kind volunteer-led course called Code in Place, hosted by Stanford University.  
+> Code in Place was a great, uplifting learning experience and over 10,000 students learned how to code in Python.
+
+---
+
+## ✨ Features
+
+- ✅ Beginner Friendly Solutions
+- ✅ Clean & Readable Code
+- ✅ Karel + Python Exercises
+- ✅ Well Structured Repository
+- ✅ Helpful for Self Learning
+- ✅ Open Source
+
+---
+
+## 🚀 Why this Repository?
+
+This repository is designed to help beginners:
+- Understand programming concepts
+- Learn problem-solving approaches
+- Explore clean Python code
+- Practice Karel exercises
+- Build logical thinking
+
+---
+
+## 💡 Notes
+
+- Solutions are written for educational purposes only.
+- Please try solving problems yourself before viewing answers.
+- Contributions and improvements are always welcome.
+
+---
+
+## 🌟 Support
+
+✔️ If this repository helped you learn something new, consider giving it a **star ⭐**
+
+❌ If not, point out *why* and spam the issue section 🚩
+
+---
+
+<div align="center">
+
+Made with ❤️ for the programming community
+
+</div>
