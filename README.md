@@ -34,6 +34,18 @@ def karel():
 > Code in Place is an act of community service where 900+ teachers from around the world came together to offer a first-of-its-kind volunteer-led course called Code in Place, hosted by Stanford University.  
 > Code in Place was a great, uplifting learning experience and over 10,000 students learned how to code in Python.
 
+<div align="center">
+<!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Karel-2E7D32?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Beginner--Friendly-7B1FA2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/100%25_Solutions-F9A825?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Open_Source-2E7D32?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GPL--3.0-blue?style=for-the-badge" />
+  </p>
+</div>
+
 ---
 
 ## ✨ Features
